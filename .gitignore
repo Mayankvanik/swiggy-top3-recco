@@ -88,3 +88,4 @@ uuus
 
 # Mypy cache
 .mypy_cache/
+/data
